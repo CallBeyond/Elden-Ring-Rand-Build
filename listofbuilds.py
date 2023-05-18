@@ -1,0 +1,77 @@
+intbuilds = [
+    "Battlemage",
+    "Carian",
+    "Spellknight",
+    "Cold-Blooded Raptor",
+    "Crystal Mage",
+    "Dark Knight",
+    "Darkmoon Spellblade",
+    "Deathblade",
+    "Death Knight",
+    "Mage",
+    "Magus",
+    "Moonveil Samurai",
+    "Moonveil Shinobi",
+    "Royal Knight",
+    "Sorcerer",
+    "Spellblade",
+    "Sword Sage",
+]
+
+faithbuilds = [
+    "Blackflame Apostle",
+    "Blackflame Bushido",
+    "Blackflame Spellblade",
+    "Blasphemous Herald",
+    "Crusader",
+    "Deathblade",
+    "Dragon Priest",
+    "Elementalist",
+    "Hellfire Herald",
+    "Golden Eye",
+    "Lightning Lancer",
+    "Paladin",
+    "Sword Sage",
+    "Templar",
+]
+
+arcanebuilds = [
+    "Blood Danceer",
+    "Blood Dragon",
+    "Dragon Knight",
+    "Dragon Warrior",
+    "Eochaid Executioner",
+    "Frenzied Acolyte",
+    "Sanguine Samurai",
+]
+
+strengthbuilds = [
+    "Barbarian",
+    "Berserker",
+    "Blasphemous Beastmaster",
+    "Blasphemous Herald",
+    "Blazing Bushido",
+    "Champion",
+    "Cold-Blooded Raptor",
+    "Colossal Knight",
+    "Colossus Guardian",
+    "Gravity God",
+    "Magic Archer",
+    "Royal Knight",
+    "Scorching Slayer",
+    "Sorcery Sentinel",
+    "Venmous Bloodblade",
+]
+
+dexbuilds = [
+    "Blackflame Bushido",
+    "Blazing Bushido",
+    "Blood Blade",
+    "Gravity God",
+    "Lightning Dragoon",
+    "Moonveil Samurai",
+    "Sanguine Samurai",
+    "Samurai",
+    "Thundering Swordspear",
+    "Venmous Bloodblade",
+]
